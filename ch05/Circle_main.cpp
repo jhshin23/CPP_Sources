@@ -14,7 +14,7 @@ public:
 };
 
 Circle::Circle() {
-	radius = 1;
+	radius = 1; 
 	cout << "생성자 실행 radius = " << radius << endl;
 }
 

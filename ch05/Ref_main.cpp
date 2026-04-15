@@ -11,4 +11,4 @@ int main() {
 	p = &ref;
 
 	cout << n << ',' << ref << ',' << *p << endl; //n==ref==*p
-}
+} 

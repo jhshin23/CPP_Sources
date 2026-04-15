@@ -11,4 +11,4 @@ public:
     int inquiry();
     string getOwner();
 };
-#endif
+#endif 
